@@ -1,1 +1,1 @@
-Mozilla/5.0 (Linux; Android 13; 23078PND5G Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/119.0.6045.193 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; 21051182G Build/TKQ1.221013.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6299.0 Safari/537.36
